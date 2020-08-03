@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mlt title="Anonymous Submission" LC_NUMERIC="id_ID.UTF-8" producer="main_bin" version="6.20.0" root="/home/sherlock/git/libreoffice-7.0">
+<mlt LC_NUMERIC="id_ID.UTF-8" producer="main_bin" version="6.22.0" root="/home/sherlock/git/libreoffice-7.0">
  <profile frame_rate_num="30" sample_aspect_num="1" display_aspect_den="9" colorspace="709" progressive="1" description="HD 1080p 30 fps" display_aspect_num="16" frame_rate_den="1" width="1920" height="1080" sample_aspect_den="1"/>
  <producer title="Anonymous Submission" id="producer3" in="00:00:00,000" out="00:00:48,000">
   <property name="length">1441</property>
@@ -102,26 +102,6 @@
   <property name="kdenlive:id">5</property>
   <property name="kdenlive:file_hash">039b56a692cd66eefeea44a17539e5a2</property>
   <property name="global_feed">1</property>
- </producer>
- <producer id="producer2" in="00:00:00,000" out="00:00:04,967">
-  <property name="length">00:00:05,000</property>
-  <property name="eof">pause</property>
-  <property name="resource">images/img-credit-illustrations.png</property>
-  <property name="ttl">25</property>
-  <property name="aspect_ratio">1</property>
-  <property name="progressive">1</property>
-  <property name="seekable">1</property>
-  <property name="meta.media.width">3000</property>
-  <property name="meta.media.height">1688</property>
-  <property name="mlt_service">qimage</property>
-  <property name="kdenlive:clipname">img-credit-illustrations.png</property>
-  <property name="kdenlive:duration">00:00:05,000</property>
-  <property name="kdenlive:folderid">17</property>
-  <property name="kdenlive:id">6</property>
-  <property name="kdenlive:file_size">67142</property>
-  <property name="global_feed">1</property>
-  <property name="kdenlive:originalurl">/home/sherlock/Video/7alpha/images/img-credit-illustrations.png</property>
-  <property name="kdenlive:file_hash">75538de455e4826bc3a60fb63fdbf15f</property>
  </producer>
  <producer title="Anonymous Submission" id="producer0" in="00:00:00,000" out="00:03:11,600">
   <property name="length">5749</property>
@@ -1831,6 +1811,26 @@
   <property name="kdenlive:file_hash">37ffaa23bf2bee269a157fa1f83bd843</property>
   <property name="global_feed">1</property>
  </producer>
+ <producer id="producer2" in="00:00:00,000" out="00:00:04,967">
+  <property name="length">00:00:05,000</property>
+  <property name="eof">pause</property>
+  <property name="resource">images/img-credit-illustrations.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">3000</property>
+  <property name="meta.media.height">1688</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname">img-credit-illustrations.png</property>
+  <property name="kdenlive:duration">00:00:05,000</property>
+  <property name="kdenlive:folderid">17</property>
+  <property name="kdenlive:id">6</property>
+  <property name="kdenlive:file_size">144530</property>
+  <property name="global_feed">1</property>
+  <property name="kdenlive:originalurl">/home/sherlock/Video/7alpha/images/img-credit-illustrations.png</property>
+  <property name="kdenlive:file_hash">bb52fcf126689a44a6f9cb698166337b</property>
+ </producer>
  <playlist id="main_bin">
   <property name="kdenlive:folder.-1.17">Image Assets</property>
   <property name="kdenlive:folder.-1.18">Audio Assets</property>
@@ -1853,7 +1853,7 @@
 ]
 </property>
   <property name="kdenlive:docproperties.kdenliveversion">20.04.3</property>
-  <property name="kdenlive:docproperties.position">210</property>
+  <property name="kdenlive:docproperties.position">3285</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
   <property name="kdenlive:docproperties.profile">atsc_1080p_30</property>
@@ -1883,21 +1883,20 @@
   <property name="kdenlive:docproperties.rendertwopass">0</property>
   <property name="kdenlive:docproperties.renderurl">LibreOffice-7.0-Final.mp4</property>
   <property name="kdenlive:docproperties.renderzone">0</property>
-  <property name="kdenlive:docproperties.scrollPos">23</property>
+  <property name="kdenlive:docproperties.scrollPos">35523</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.version">0.99</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
-  <property name="kdenlive:docproperties.videoTarget">2</property>
+  <property name="kdenlive:docproperties.videoTarget">-1</property>
   <property name="kdenlive:docproperties.zonein">925</property>
   <property name="kdenlive:docproperties.zoneout">1140</property>
-  <property name="kdenlive:docproperties.zoom">5</property>
+  <property name="kdenlive:docproperties.zoom">2</property>
   <property name="kdenlive:documentnotes"/>
   <property name="xml_retain">1</property>
   <entry producer="producer3" in="00:00:00,000" out="00:00:48,000"/>
   <entry producer="producer22" in="00:00:00,000" out="00:00:04,967"/>
   <entry producer="producer27" in="00:00:00,000" out="00:00:06,267"/>
   <entry producer="producer30" in="00:00:00,000" out="00:03:14,800"/>
-  <entry producer="producer2" in="00:00:00,000" out="00:00:04,967"/>
   <entry producer="producer0" in="00:00:00,000" out="00:03:11,600"/>
   <entry producer="producer4" in="00:00:00,000" out="00:00:05,167"/>
   <entry producer="producer82" in="00:00:00,000" out="00:00:04,967"/>
@@ -1951,6 +1950,7 @@
   <entry producer="producer84" in="00:00:00,000" out="00:00:04,967"/>
   <entry producer="producer85" in="00:00:00,000" out="00:00:04,967"/>
   <entry producer="producer89" in="00:00:00,000" out="00:00:04,967"/>
+  <entry producer="producer2" in="00:00:00,000" out="00:00:04,967"/>
  </playlist>
  <producer id="black_track" in="00:00:00,000" out="00:18:54,767">
   <property name="length">2147483647</property>
@@ -2314,27 +2314,29 @@
   <entry producer="producer93" in="00:00:00,000" out="00:00:00,867">
    <property name="kdenlive:id">11</property>
   </entry>
-  <entry producer="producer89" in="00:00:00,000" out="00:00:01,667">
+  <entry producer="producer89" in="00:00:00,000" out="00:00:01,633">
    <property name="kdenlive:id">64</property>
+   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter9">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
-    <property name="rect">00:00:00,000=0 0 1920 1080 1;00:00:01,667=-144 -81 2208 1242 1</property>
-    <property name="rotation">00:00:00,000=0;00:00:01,667=0</property>
+    <property name="rect">00:00:00,000=0 0 1920 1080 1;00:00:01,633=-144 -81 2208 1242 1</property>
+    <property name="rotation">00:00:00,000=0;00:00:01,633=0</property>
     <property name="compositing">0</property>
     <property name="distort">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer93" in="00:00:01,233" out="00:00:03,433">
+  <entry producer="producer93" in="00:00:01,200" out="00:00:03,433">
    <property name="kdenlive:id">11</property>
+   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter10">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
-    <property name="rect">00:00:01,233=-144 -81 2208 1242 1</property>
-    <property name="rotation">00:00:01,233=0</property>
+    <property name="rect">00:00:01,200=-144 -81 2208 1242 1</property>
+    <property name="rotation">00:00:01,200=0</property>
     <property name="compositing">0</property>
     <property name="distort">0</property>
     <property name="kdenlive:collapsed">0</property>
@@ -2557,8 +2559,8 @@
  </playlist>
  <playlist id="playlist7"/>
  <tractor id="tractor3" in="00:00:00,000" out="00:02:04,633">
-  <property name="kdenlive:trackheight">42</property>
-  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:trackheight">68</property>
+  <property name="kdenlive:collapsed">28</property>
   <property name="kdenlive:thumbs_format"/>
   <property name="kdenlive:audio_rec"/>
   <property name="kdenlive:timeline_active">1</property>
@@ -5308,7 +5310,7 @@
   <track hide="audio" producer="playlist14"/>
   <track hide="both" producer="playlist15"/>
  </tractor>
- <tractor title="Anonymous Submission" id="tractor8" global_feed="1" in="00:00:00,000" out="00:18:54,767">
+ <tractor id="tractor8" global_feed="1" in="00:00:00,000" out="00:18:54,767">
   <track producer="black_track"/>
   <track producer="tractor0"/>
   <track producer="tractor1"/>
