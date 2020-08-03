@@ -29,5 +29,7 @@ Please recheck before render the translated video. You are permitted add your na
 - Motion and video by Rania Amina
 - Some image clips by Mike Saunders
 - Video Features by Artemtech
+- Office software icons: [Nikolay Verin](http://ncrow.deviantart.com)
+- Speedometer icon: [Itzik Gur](https://www.iconarchive.com/show/my-seven-icons-by-itzikgur.html)
 
 You are permitted to edit this source and remake the video as long as not remove the credits/attributions on the video. 
