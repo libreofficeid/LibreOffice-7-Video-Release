@@ -1,4 +1,4 @@
-# Short Video for LibreOffice 7.0 Release
+# Video for LibreOffice 7.0 Release
 
 Short video to announce LibreOffice 7.0 release by Rania Amina.
 
