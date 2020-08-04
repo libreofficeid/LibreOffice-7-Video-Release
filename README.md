@@ -1,6 +1,6 @@
 # Short Video for LibreOffice 7.0 Release
 
-Short video to announce Alpha release of LibreOffice 7.0 by Rania Amina.
+Short video to announce LibreOffice 7.0 release by Rania Amina.
 
 ### Apps that needed to edit all components:
 
